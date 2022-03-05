@@ -12,7 +12,7 @@ Detect if someone has diabetes using ML and Python
 """)
 
 # Reads the CSV File
-df = pd.read_csv('C:/Users/VIKASH K S/PycharmProjects/HackHub_HealthCare/diabetes.csv')
+df = pd.read_csv('diabetes.csv')
 
 # Creates a subheading
 st.subheader('Data Information:')
